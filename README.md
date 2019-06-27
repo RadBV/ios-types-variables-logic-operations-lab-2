@@ -180,6 +180,11 @@ print(smallest)
 OR
 
 ```
+var a = 5
+var b = 6
+var c = 3
+var d = 4
+
 var arr = [a, b, c, d]
 var lowestNum = arr.min()
 print(lowestNum ?? 0)
